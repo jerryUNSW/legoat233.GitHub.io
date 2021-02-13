@@ -11,20 +11,16 @@ Bipartite graphs arise naturally to model the relationships among two types of e
 3. The collpased alpha-beta-core problem
 
 ### Publications
-1. Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs [link](https://arxiv.org/pdf/2008.04054.pdf)
-
+1. Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs [link](https://arxiv.org/pdf/2008.04054.pdf)  
 Accepted with minor revision to The Information Sciences (Q1 Journal). 
 
-2. Efficient and Effective Reinforcement of Bipartite Networks at Billion Scale
-
+2. Efficient and Effective Reinforcement of Bipartite Networks at Billion Scale  
 To be submitted to The Journal of Information System (Q1 Journal). 
 
-3. Applications of cohesive subgraph in bipartite graphs on e-commerce 
-
+3. Applications of cohesive subgraph in bipartite graphs on e-commerce  
 Submitted to The Journal of East China Normal University (Chinese Core). 
 
-4. Applications of cohesive subgraph in bipartite graphs on anomaly detection
-
+4. Applications of cohesive subgraph in bipartite graphs on anomaly detection  
 Submitted to The Journal of East China Normal University (Chinese Core). 
 
 ### Education 
