@@ -1,6 +1,6 @@
 ## Jerry He
 
-I am currently a Master of Philosophy candidate in the Data and Knowledge Research Group at The University of New South Wales, supervised by Scientia Prof. Xuemin Lin and Prof. Wenjie Zhang. I am interested in cohesive subgraph computation on large-scale bipartite graphs. 
+I am currently a Master of Philosophy candidate in the Data and Knowledge Research Group at The University of New South Wales, supervised by Scientia Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). I am interested in cohesive subgraph computation on large-scale bipartite graphs. 
 
 ### Cohesive subgraph mining on bipartite graphs
 Bipartite graphs arise naturally to model the relationships among two types of entities, such as user-item networks, author-paper networks, and predator-prey networks. An important research topic on bipartite graphs is cohesive subgraph mining, which aims to find closely connected subgraphs. It has many applications including network visualisation, anomaly detection, and group recommendations. In recently year, many cohesive subgraph models on bipartite graphs including alpha-beta-core, k-wing, and biclique have been proposed, accompanied by the algorithms designed to efficiently compute them.
