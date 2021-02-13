@@ -8,7 +8,7 @@ Bipartite graphs arise naturally to model the relationships among two types of e
 ### Future Research Topics
 1. Efficient maintenance of maximal bicliques
 2. Butterfly counting on uncertain bipartite graphs
-3. The collpased '''(\alpha, \beta)'''-core problem
+3. The collpased alpha-beta-core problem
 
 ### Publications
 1. Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs [link](https://arxiv.org/pdf/2008.04054.pdf)
