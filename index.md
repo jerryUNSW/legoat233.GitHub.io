@@ -20,6 +20,9 @@ To be submitted to The Journal of Information System (Q1 Journal).
 3. Applications of cohesive subgraph in bipartite graphs on e-commerce 
 Submitted to The Journal of East China Normal University (Chinese Core). 
 
+4. Applications of cohesive subgraph in bipartite graphs on anomaly detection
+Submitted to The Journal of East China Normal University (Chinese Core). 
+
 ### Education 
 Master of Philosophy in Computer Science & Enigineering, UNSW
 
