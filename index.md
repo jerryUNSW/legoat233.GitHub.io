@@ -32,11 +32,9 @@ Bachelor of Data Science & Decisions, UNSW
 
 Tutor in the following courses:
 
-Graph Analytics (COMP9312) - 2021 T2*.
-
-Database Systems (COMP9311) - 2019 T3, 2020 T3, 2021 T1.
-
-Data Science and Decisions (DATA1001) - 2020 T2.
+1. Graph Analytics (COMP9312) - 2021 T2*.
+2. Database Systems (COMP9311) - 2019 T3, 2020 T3, 2021 T1.
+3. Data Science and Decisions (DATA1001) - 2020 T2.
 
 Reviewer of the SpatialDI conference. 
 
